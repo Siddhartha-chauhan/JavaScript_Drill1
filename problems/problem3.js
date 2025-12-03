@@ -1,3 +1,6 @@
+// Problem 3: Sort all car models alphabetically
+// Expected output: Array of car model names in alphabetical order
+
 import { inventory } from '../inventory.js';
 
 function problem3(inventory) {
