@@ -1,3 +1,6 @@
+// Problem 1: Find the car with ID 33 and return its year, make, and model
+// Expected output format: "Car 33 is a 2011 Jeep Wrangler"
+
 import { inventory } from '../inventory.js';
 
 function problem1(inventory) {
