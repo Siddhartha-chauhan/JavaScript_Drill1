@@ -1,3 +1,7 @@
+// Problem 4: Extract all car years from the inventory
+// Expected output: Array of car years
+
+
 import { inventory } from '../inventory.js';
 
 function problem4(inventory) {
