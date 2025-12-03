@@ -1,4 +1,4 @@
-# JS Drill: Car Inventory
+# JS Drill 1: Car Inventory
 
 This project simulates a **used car dealer inventory** with 50 cars.  
 It is designed to help practice **JavaScript arrays, objects, and for loops** in a real-world scenario.  
