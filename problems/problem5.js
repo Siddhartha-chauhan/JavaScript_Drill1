@@ -1,3 +1,7 @@
+// Problem 5: Find cars older than the year 2000 and count them
+// Expected output: Array of cars made before 2000, and its length
+
+
 import { inventory } from '../inventory.js';
 
 function problem5(inventory) {
