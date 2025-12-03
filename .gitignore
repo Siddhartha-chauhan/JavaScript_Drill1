@@ -1,0 +1,11 @@
+# Node modules (if you ever use npm)
+node_modules/
+
+# VS Code settings folder
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
